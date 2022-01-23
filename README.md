@@ -1,11 +1,15 @@
-### Ksendzov's QA course
+## Ksendzov's QA course
+
+### Completed
 
 1. Terminal - OK
+2. Git - OK
 
-* Git
+
+### Planned:
+
 * Postman
 * SQL
 * Python
 * jmeter
 * Charles
-
