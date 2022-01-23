@@ -2,10 +2,10 @@
 
 1. Terminal - OK
 
-* Git
+Git homework. json & xml base include.
+
 * Postman
 * SQL
 * Python
 * jmeter
 * Charles
-
