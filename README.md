@@ -1,9 +1,11 @@
-Ksendzov's QA course.
--Terminal
--Git
--Postman
--SQL
--Python
--jmeter
--Charles
+### Ksendzov's QA course
+
+1. Terminal - OK
+
+* Git
+* Postman
+* SQL
+* Python
+* jmeter
+* Charles
 
