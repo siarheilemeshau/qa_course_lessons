@@ -1,1 +1,14 @@
-
+{
+  "summary":"Test bug report",
+  "product":"Example product",
+  "version:"1.0",
+  "platform":"PC",
+  "os":"Windows 10",
+  "status":"New",
+  "severity":"Major",
+  "priority":"P1",
+  "component":"Publisher stats",
+  "assigned_to:"developer@example.com",
+  "reported_by:"tester@example.com",
+  "reproduce_steps":"test message"
+}
