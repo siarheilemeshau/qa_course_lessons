@@ -1,0 +1,15 @@
+<?xml version = "1.0"?>
+<report>
+<summary>Test bug report</summary>
+<product>Example product</product>
+<version>1.0</version>
+<platform>PC</platform>
+<os>Windows 10</os>
+<status>New</status>
+<severity>Major</severity>
+<priority>P1</priority>
+<component>Publisher stats</component>
+<assigned_to>developer@example.com</assigned_to>
+<reported_by>tester@example.com</reported_by>
+<reproduce_steps>test message</reproduce_steps>
+</report>
