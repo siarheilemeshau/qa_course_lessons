@@ -1,0 +1,13 @@
+1. Summary
+2. Project name
+3. Component name
+4. Version
+5. Severity
+6. Priority
+7. Status
+8. Author
+9. Assigned to
+10. Steps to Reproduce
+11. Result
+12. Expected Result
+13. Attachment
