@@ -1,0 +1,18 @@
+|Element					|Acceptable	|Page/Section	|Comments	|
+-------------------------------------------------------------------------------------------------
+|A1. Title and Approval Sheet			|		|		|		|
+|	-contains project title			|		|		|		|
+|	-indicates revision number		|		|		|		|
+|	-indicates organization			|		|		|		|
+|	-date signature of organization		|		|		|		|
+|	-other signatures, as needed		|		|		|		|
+-------------------------------------------------------------------------------------------------
+|A2. Table of Contents				|		|		|		|
+|	-lists QA project plan info. sections	|		|		|		|
+|	-document control info. indicated	|		|		|		|
+-------------------------------------------------------------------------------------------------
+|A3. Distribution List				|		|		|		|
+|	-incl. all individuals who are to	|		|		|		|
+|	receive a copy of the QA project Plan	|		|		|		|
+|	and identifies their organization	|		|		|		|
+-------------------------------------------------------------------------------------------------
