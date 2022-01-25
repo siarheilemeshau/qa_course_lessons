@@ -1,6 +1,6 @@
 ## Ksendzov's QA course
 
-### Completed
+### Complete:
 
 1. Terminal - OK
 2. Git - OK
