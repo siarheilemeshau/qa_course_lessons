@@ -3,8 +3,8 @@
 ### Complete:
 
 1. Terminal - OK
-2. Git - OK
-
+2. Git Lesson1 - OK
+3. Git Lesson2 - OK
 
 ### Planned:
 
